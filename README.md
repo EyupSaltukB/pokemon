@@ -19,8 +19,6 @@ HTML, CSS ve JS kullanıldı.
 ![](pokemon.mp4)
 
 
-
-
 <h4> GIF </h4>
 
 ![](pokemon2.gif)
