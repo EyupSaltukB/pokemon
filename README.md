@@ -1,6 +1,6 @@
 <h1>Pokemon</h1>
 
-JS ile dinamizm katılmıştır.
+JS dinamizmi ile pokemon projesi.
 
 <h2> Kullanılan Teknolojiler</h2>
 
